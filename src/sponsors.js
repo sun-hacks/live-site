@@ -19,7 +19,7 @@ class Sponsors extends Component {
     return (
       <div style={{textAlign: "center"}}>
         <h1>Sponsors</h1>
-        <div style={{backgroundColor: "white", overflowY: "scroll", width: "80vw", height: "65vh", marginLeft: "auto", marginRight:"auto"}}> 
+        <div className="sponsorbox"> 
           <Grid>
             <Row className="sponsor-row planet">
                 <Col sm={12}><a className="col-sm-12" href="https://amazon.com/" target="_blank"><img className="logo" src={amazonLogo} alt="Amazon Tempe Software Development Centers" style={{marginTop: "50px"}} /></a></Col>

@@ -74,6 +74,15 @@ td {
   text-align: left;
 }
 
+.sponsorbox {
+  background-color: "white"; 
+  overflow-y: "scroll";
+  width: 80vw;
+  height: 65vh; 
+  margin-left: "auto"; 
+  margin-right:"auto";
+}
+
 .schedulebox {
   background: white; 
   overflow-y: scroll; 
