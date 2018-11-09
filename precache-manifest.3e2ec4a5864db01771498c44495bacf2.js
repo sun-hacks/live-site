@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/amazon.8b63c194.png"
   },
   {
-    "revision": "8128dfc8aa92bc57aab9",
-    "url": "/static/css/main.817b2e4f.chunk.css"
+    "revision": "88071c4cc2cd25370fc7",
+    "url": "/static/css/main.7092f9df.chunk.css"
   },
   {
-    "revision": "dc42868e26200356dbad",
-    "url": "/static/js/1.dc42868e.chunk.js"
+    "revision": "5dec5b25585cf493020f",
+    "url": "/static/js/1.5dec5b25.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/agjunction.2f0ecb20.svg"
   },
   {
-    "revision": "8128dfc8aa92bc57aab9",
-    "url": "/static/js/main.8128dfc8.chunk.js"
+    "revision": "88071c4cc2cd25370fc7",
+    "url": "/static/js/main.88071c4c.chunk.js"
   },
   {
     "revision": "25b452566c10d0dca65f425a7d3ae9c8",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/sticker-mule.476f4b47.png"
   },
   {
-    "revision": "849d1393be216d49e6528cec33d56db8",
+    "revision": "0122c47891bb12bdfb2320fdd699176f",
     "url": "/index.html"
   }
 ];
