@@ -1,0 +1,6 @@
+{
+  "schedule": [
+    {"name": "Check In", "startTime": "Friday 5:00pm", "endTime": "Friday 7:00pm", "location": "SPV Lobby"}, 
+    {"name": "Sponsor Fair", "startTime": "Friday 6:00pm", "endTime": "Friday 7:00pm", "location": "SPV Lobby"} 
+  ]
+}
