@@ -46,7 +46,7 @@ const schedule = {
           "startTime": "2018-11-09T20:30:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "sunspot Opens"
+          "Name": "Sunspot Opens"
       },
       {
           "startTime": "2018-11-09T20:30:00-07:00",
@@ -181,12 +181,6 @@ const schedule = {
           "Name": "Dinner"
       },
       {
-          "startTime": "2018-11-10T18:00:00-07:00",
-          "location": "MU246",
-          "endTime": "2018-11-10T19:00:00-07:00",
-          "Name": "Water Bottle Contest"
-      },
-      {
           "startTime": "2018-11-10T20:30:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T21:30:00-07:00",
@@ -202,7 +196,7 @@ const schedule = {
           "startTime": "2018-11-11T07:00:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "sunspot Closes"
+          "Name": "Sunspot Closes"
       },
       {
           "startTime": "2018-11-11T07:00:00-07:00",
@@ -214,7 +208,7 @@ const schedule = {
           "startTime": "2018-11-11T07:00:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "putting your dev in devpost"
+          "Name": "Putting Your Dev in Devpost"
       },
       {
         "startTime": "2018-11-11T07:00:00-07:00",
