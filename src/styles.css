@@ -61,6 +61,8 @@ nav {
 table.center {
   margin-right: auto; 
   margin-left: auto;
+  border-collapse:separate; 
+  border-spacing: 0 5px;
 }
 
 tr {
@@ -83,11 +85,28 @@ td {
 }
 
 .scheduleheader {
-  background-color: 
+  background-color: #5db3b8; 
+  color: white;
+  border-radius: 2px; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 10px;
+  margin-right: 10px;
+  height: 30px;
 }
 
-.scheduleItem {
-
+.schedulerow {
+  background-color: #85dbcd; 
+  color: white;
+  border-radius: 2px; 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 10px;
+  margin-right: 10px;
+  height: 30px;
+  border-spacing: 5em;
 }
 
 footer {
@@ -95,8 +114,9 @@ footer {
   width:100%;
   bottom: 0; 
   z-index: 2;
-  height: 100px; 
+  height: 14vh; 
   color: #faf8f3;
+  background-color: rgba(135, 88, 2, 0.17); 
 }
 
 .footertext {
