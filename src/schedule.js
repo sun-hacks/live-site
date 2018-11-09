@@ -12,10 +12,11 @@ class Schedule extends Component {
         <h1>Schedule</h1>
         <div className="schedulebox">
           <table class="center">
-            <tr><th>Event</th><th>Location</th><th>Time</th></tr>
+            <tr><th>Event</th><th>Location</th><th>Start Time</th><th>End Time</th></tr>
             {(sched.map(function(item, index) {
-              var date = new Date(item['startTime']); 
-              return(<tr className="scheduleitem"><td>{item['Name']}</td><td>{item['location']}</td><td>{date.toLocaleString('en-US')}</td></tr>);
+              var startDate = new Date(item['startTime']); 
+              var endDate = new Date(item['endTime']);
+              return(<tr className="scheduleitem"><td>{item['Name']}</td><td>{item['location']}</td><td>{startDate.toLocaleString('en-US')}</td><td>{endDate.toLocaleString('en-US')}</td></tr>);
             }))}
           </table>
         </div>

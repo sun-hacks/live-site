@@ -77,13 +77,13 @@ td {
   overflow-y: scroll; 
   margin-left: auto; 
   margin-right: auto; 
-  height: 70vh; 
-  width: 80%;
+  height: 65vh; 
+  width: 80vw;
   text-align: center;
 }
 
 .scheduleheader {
-  
+  background-color: 
 }
 
 .scheduleItem {
@@ -145,27 +145,9 @@ img.logo {
   color: #99cd76;
   font-size: 40px;
   font-weight: bold;
-  margin-top: 40px; }
-
-
-
-@media (min-height: 1500) {
-  .schedulebox {
-    height: 700px; 
-  }
+  margin-top: 40px; 
 }
 
-@media (min-height: 800) {
-  .schedulebox {
-    height: 500px; 
-  }
-}
-
-@media (min-height: 500) {
-  .schedulebox {
-    height: 100vh; 
-  }
-}
   
 @media (max-width: 900px) {
   .logo {
