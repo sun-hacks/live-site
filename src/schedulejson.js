@@ -46,7 +46,7 @@ const schedule = {
           "startTime": "2018-11-09T20:30:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "Chill Zone Opens"
+          "Name": "Sunspot Opens"
       },
       {
           "startTime": "2018-11-09T20:30:00-07:00",
@@ -88,13 +88,13 @@ const schedule = {
           "startTime": "2018-11-10T09:30:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T10:30:00-07:00",
-          "Name": "Intro to Machine Learning with Saar Yalov"
+          "Name": "Intro to Machine Learning by Saar Yalov"
       },
       {
           "startTime": "2018-11-10T09:30:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T10:30:00-07:00",
-          "Name": "iOS App Development for Beginners with MobileDevs"
+          "Name": "iOS App Development for Beginners by MobileDevs"
       },
       {
           "startTime": "2018-11-10T09:30:00-07:00",
@@ -106,13 +106,13 @@ const schedule = {
           "startTime": "2018-11-10T11:00:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T12:00:00-07:00",
-          "Name": "Data Science Workshop with Aritro Majumdar"
+          "Name": "Data Science Workshop by Aritro Majumdar"
       },
       {
           "startTime": "2018-11-10T11:00:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T12:00:00-07:00",
-          "Name": "iOS with Chandler De Angelis"
+          "Name": "iOS Continued by Chandler De Angelis"
       },
       {
           "startTime": "2018-11-10T12:00:00-07:00",
@@ -130,19 +130,19 @@ const schedule = {
           "startTime": "2018-11-10T13:30:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T14:30:00-07:00",
-          "Name": "Cross Platform AR in Unity with Alireza Bahremand"
+          "Name": "Cross Platform AR with Unity with Alireza Bahremand"
       },
       {
           "startTime": "2018-11-10T13:30:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T14:30:00-07:00",
-          "Name": "Tech Talk with Alex Cano"
+          "Name": "What it Takes to be a Good Data Analyst/Scientist by Anebi Agbo"
       },
       {
           "startTime": "2018-11-10T15:00:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T16:00:00-07:00",
-          "Name": "User Experience with Creator Space"
+          "Name": "User Experience by Creator Space"
       },
       {
           "startTime": "2018-11-10T15:00:00-07:00",
@@ -154,19 +154,19 @@ const schedule = {
           "startTime": "2018-11-10T16:30:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T17:30:00-07:00",
-          "Name": "Google Cloud Story Tech Talk"
+          "Name": "Google Cloud Story"
       },
       {
           "startTime": "2018-11-10T16:30:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T17:30:00-07:00",
-          "Name": "The Art of the Well Tailored Pitch with Surya Iyer"
+          "Name": "The Art of the Well Tailored Pitch by Surya Iyer"
       },
       {
           "startTime": "2018-11-10T18:00:00-07:00",
           "location": "MU 202",
           "endTime": "2018-11-10T19:00:00-07:00",
-          "Name": "An Eye-Opening Introduction to Computer Vision with Chris Huie"
+          "Name": "An Eye-Opening Introduction to Computer Vision by Chris Huie"
       },
       {
           "startTime": "2018-11-10T18:00:00-07:00",
@@ -181,22 +181,22 @@ const schedule = {
           "Name": "Dinner"
       },
       {
-          "startTime": "2018-11-10T20:00:00-07:00",
-          "location": "STPV",
-          "endTime": false,
-          "Name": "HackQuest"
-      },
-      {
           "startTime": "2018-11-10T20:30:00-07:00",
           "location": "MU 207",
           "endTime": "2018-11-10T21:30:00-07:00",
-          "Name": "Slideshow Karaoke with MLH"
+          "Name": "Slideshow Karaoke by MLH"
       },
+      {
+        "startTime": "2018-11-10T22:30:00-07:00",
+        "location": "MU 207",
+        "endTime": "2018-11-10T23:30:00-07:00",
+        "Name": "HackQuest"
+        },
       {
           "startTime": "2018-11-11T07:00:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "Chill Zone Closes"
+          "Name": "Sunspot Closes"
       },
       {
           "startTime": "2018-11-11T07:00:00-07:00",
@@ -208,8 +208,14 @@ const schedule = {
           "startTime": "2018-11-11T07:00:00-07:00",
           "location": "STPV 202",
           "endTime": false,
-          "Name": "How to Use DevPost"
+          "Name": "Putting Your Dev in Devpost"
       },
+      {
+        "startTime": "2018-11-11T07:00:00-07:00",
+        "location": "STPV 2nd floor",
+        "endTime": "2018-11-11T08:00:00-07:00",
+        "Name": "Meditation"
+        },
       {
           "startTime": "2018-11-11T08:00:00-07:00",
           "location": "STPV Lobby",
