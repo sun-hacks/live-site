@@ -11,7 +11,7 @@ import Links from './links.js';
 const HomePage = () => (
   <div class="logocontainer">
     <img class="logo" src={logo} alt="Sun Hacks" />
-    <h1>fall 2018 live site</h1>
+    <h1>#sunhacks2018 live site</h1>
   </div>
 );
 
@@ -44,7 +44,7 @@ class App extends Component {
             <Route path='/sponsors' component={Sponsors} />
             <Route path='/links' component={Links} />
         </Switch>
-        <footer style={{'paddingTop': '20px'}} className="footertext"> 
+        <footer style={{'paddingTop': '30px'}} className="footertext"> 
           <a href="https://www.facebook.com/sunhacksofficial/" target="_blank">
             <i className="fa fa-facebook-square"></i>
           </a> 
