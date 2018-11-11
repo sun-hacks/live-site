@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/amazon.8b63c194.png"
   },
   {
-    "revision": "8a27358ff2fa7716e162",
+    "revision": "7d8f209ca189169f1e4b",
     "url": "/static/css/main.fccb7ab6.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/agjunction.2f0ecb20.svg"
   },
   {
-    "revision": "8a27358ff2fa7716e162",
-    "url": "/static/js/main.8a27358f.chunk.js"
+    "revision": "7d8f209ca189169f1e4b",
+    "url": "/static/js/main.7d8f209c.chunk.js"
   },
   {
     "revision": "25b452566c10d0dca65f425a7d3ae9c8",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/sticker-mule.476f4b47.png"
   },
   {
-    "revision": "e8808d4ee1f3aea7f8d9a2d13d9acbd7",
+    "revision": "f76e5ba0df76981c2bc03cff814cb439",
     "url": "/index.html"
   }
 ];
