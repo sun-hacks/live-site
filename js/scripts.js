@@ -16,13 +16,13 @@ schedule = {"Friday":
 	    "Start": "7:15PM",
 	    "End": "8:00PM",
 	    "Description": "Opening Ceremonies",
-	    "Location": "Gold Gym"
+	    "Location": "Main Stage"
 	  },
 	  {
 	    "Start": "8:00PM",
 	    "End": "",
 	    "Description": "Dinner",
-	    "Location": "Maroon Gym"
+	    "Location": "Hacker Room"
 	  },
 	  {
 	    "Start": "8:00PM",
@@ -34,25 +34,25 @@ schedule = {"Friday":
 	    "Start": "8:30PM",
 	    "End": "",
 	    "Description": "Hacking Begins",
-	    "Location": "Maroon Gym"
+	    "Location": "Hacker Room"
 	  },
 	  {
 	    "Start": "8:00PM",
 	    "End": "11:59PM",
 	    "Description": "Hardware Lab",
-	    "Location": "Discovery Center"
+	    "Location": "Hardware"
 	  },
 	  {
 	    "Start": "9:00PM",
 	    "End": "9:30PM",
 	    "Description": "Hacking Your First Hackathon",
-	    "Location": "Gold Gym"
+	    "Location": "Main Stage"
 	  },
 	  {
 	    "Start": "10:00PM",
 	    "End": "10:30PM",
 	    "Description": "Git Familiar with Version Control",
-	    "Location": "Gold Gym"
+	    "Location": "Main Stage"
 	  },
 	  {
 	    "Start": "10:45PM",
@@ -66,12 +66,12 @@ schedule = {"Friday":
     "Start": "12:00AM",
     "End": "12:00PM",
     "Description": "Napathon",
-    "Location": "Well Devil Suite"
+    "Location": "Sun Spot"
   },
   {
     "Start": "12:00AM",
     "End": "11:59PM",
-    "Description": "Hardware Lab\tDiscovery Center",
+    "Description": "Hardware Lab\tHardware",
     "Location": ""
   },
   {
@@ -84,19 +84,19 @@ schedule = {"Friday":
     "Start": "1:00AM",
     "End": "2:00AM",
     "Description": "Zero to Hero",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "2:30AM",
     "End": "3:30AM",
     "Description": "Zero to Hero II",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "8:00AM",
     "End": "",
     "Description": "Breakfast",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "8:00AM",
@@ -108,55 +108,55 @@ schedule = {"Friday":
     "Start": "9:30AM",
     "End": "10:30AM",
     "Description": "Intro to React + DNS with GoDaddy",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "11:00AM",
     "End": "12:00PM",
     "Description": "REST APIs with State Farm",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "12:00PM",
     "End": "",
     "Description": "Lunch",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "1:00PM",
     "End": "2:00PM",
     "Description": "sunhacks.add(you)",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "2:30PM",
     "End": "3:30PM",
     "Description": "But why AR/VR?",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "3:30PM",
     "End": "4:30PM",
     "Description": "WiCS Coffee Hour",
-    "Location": "Well Devil Suite"
+    "Location": "Sun Spot"
   },
   {
     "Start": "5:00PM",
     "End": "6:00PM",
     "Description": "The Importance of Soft Skills & Interdisciplinary Tech",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "7:00PM",
     "End": "",
     "Description": "Dinner",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "8:00PM",
     "End": "9:00PM",
     "Description": "Deep Learning",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "9:30PM",
@@ -176,67 +176,67 @@ schedule = {"Friday":
     "Start": "12:00AM",
     "End": "7:00AM",
     "Description": "Napathon",
-    "Location": "Well Devil Suite"
+    "Location": "Sun Spot"
   },
   {
     "Start": "12:00AM",
     "End": "12:30AM",
     "Description": "Putting Your Dev' in Devpost",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "1:00AM",
     "End": "2:00AM",
     "Description": "JS/MS Paint with Bob Ross",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "7:00AM",
     "End": "",
     "Description": "Hardware Lab Closes",
-    "Location": "Discovery Center"
+    "Location": "Hardware"
   },
   {
     "Start": "7:30AM",
     "End": "",
     "Description": "Devposts Submissions due",
-    "Location": "Maroon Gym"
+    "Location": "Hacker Room"
   },
   {
     "Start": "8:00AM",
     "End": "",
     "Description": "Breakfast",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "8:00AM",
     "End": "",
     "Description": "Hacking End.",
-    "Location": "Maroon Gym"
+    "Location": "Hacker Room"
   },
   {
     "Start": "8:00AM",
     "End": "9:00AM",
     "Description": "Set up for demos",
-    "Location": "Maroon Gym"
+    "Location": "Hacker Room"
   },
   {
     "Start": "9:00AM",
     "End": "11:00AM",
     "Description": "Judging",
-    "Location": "Maroon Gym"
+    "Location": "Hacker Room"
   },
   {
     "Start": "11:00AM",
     "End": "11:30AM",
     "Description": "Return items to Hardware Lab",
-    "Location": "Discovery Center"
+    "Location": "Hardware"
   },
   {
     "Start": "11:30AM",
     "End": "12:15PM",
     "Description": "Closing Ceremonies",
-    "Location": "Gold Gym"
+    "Location": "Main Stage"
   },
   {
     "Start": "1:30PM",
