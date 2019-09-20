@@ -8,8 +8,8 @@ schedule = {"Friday":
 	  },
 	  {
 	    "Start": "7:00PM",
-	    "End": "8:00PM",
-	    "Description": "Waitlist Checkin Opens",
+	    "End": "11:00PM",
+	    "Description": "Waitlist Checkin Opens (will close at 11 or earlier if spots run out)",
 	    "Location": "Lobby"
 	  },
 	  {
