@@ -461,6 +461,10 @@ body {
   font-size: 24px;
 }
 
+#scheduleTable{
+  margin-top:4vh;
+}
+
 .schedule h2 {
   font-size: 16px;
 }
@@ -477,6 +481,10 @@ body {
   background-color: #ff9089;
 }
 
+table{
+  margin: 0 auto;
+  max-width: 100%;
+}
 .faq .row {
   margin: 0 auto;
   max-width: 100%;
