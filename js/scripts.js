@@ -161,12 +161,6 @@ schedule = {"Friday":
   {
     "Start": "8:00PM",
     "End": "9:00PM",
-    "Description": "Deep Learning",
-    "Location": "Main Stage"
-  },
-  {
-    "Start": "8:00PM",
-    "End": "9:00PM",
     "Description": "AppStudio for ArcGIS",
     "Location": "Main Stage"
   },
