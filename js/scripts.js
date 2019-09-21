@@ -149,7 +149,7 @@ schedule = {"Friday":
   {
     "Start": "5:00PM",
     "End": "6:00PM",
-    "Description": "Fail Fast, Fail Often\" in Tech is Wrong",
+    "Description": "\"Fail Fast, Fail Often\" in Tech is Wrong",
     "Location": "Main Stage"
   },
   {
@@ -174,7 +174,7 @@ schedule = {"Friday":
     "Start": "9:30PM",
     "End": "10:30PM",
     "Description": "Slideshow Karaoke",
-    "Location": ""
+    "Location": "Main Stage"
   },
   {
     "Start": "11:00PM",
@@ -253,7 +253,7 @@ schedule = {"Friday":
   {
     "Start": "1:30PM",
     "End": "",
-    "Description": "Hardware Lab items due.",
+    "Description": "Hardware Lab items due",
     "Location": ""
   }
 ]}
