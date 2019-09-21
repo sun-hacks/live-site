@@ -149,7 +149,7 @@ schedule = {"Friday":
   {
     "Start": "5:00PM",
     "End": "6:00PM",
-    "Description": "\"Fail Fast, Fail Often\" in Tech is Wrong",
+    "Description": "Deep Reinforcement Learning with Retro Video Games",
     "Location": "Main Stage"
   },
   {
@@ -168,7 +168,7 @@ schedule = {"Friday":
     "Start": "8:00PM",
     "End": "9:00PM",
     "Description": "AppStudio for ArcGIS",
-    "Location": "Sun spot"
+    "Location": "Main Stage"
   },
   {
     "Start": "9:30PM",
