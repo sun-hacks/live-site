@@ -49,13 +49,13 @@ schedule = {"Friday":
 	    "Location": "Main Stage"
 	  },
 	  {
-	    "Start": "10:00PM",
-	    "End": "10:30PM",
+	    "Start": "10:30PM",
+	    "End": "11:00PM",
 	    "Description": "Git Familiar with Version Control",
 	    "Location": "Main Stage"
 	  },
 	  {
-	    "Start": "10:45PM",
+	    "Start": "11:00PM",
 	    "End": "2:00AM",
 	    "Description": "Shower Time",
 	    "Location": "Locker Room"
@@ -99,6 +99,12 @@ schedule = {"Friday":
     "Location": "Main Stage"
   },
   {
+    "Start": "8:30AM",
+    "End": "9:00AM",
+    "Description": "It's as Easy as Pie-thon",
+    "Location": "Main Stage"
+  },
+  {
     "Start": "9:30AM",
     "End": "10:30AM",
     "Description": "Intro to React + DNS with GoDaddy",
@@ -125,8 +131,14 @@ schedule = {"Friday":
   {
     "Start": "2:30PM",
     "End": "3:30PM",
-    "Description": "But why AR/VR?",
+    "Description": "A Primer for the ArcGIS API for JavaScript",
     "Location": "Main Stage"
+  },
+  {
+    "Start": "2:30PM",
+    "End": "3:30PM",
+    "Description": "But why AR/VR?",
+    "Location": "Sun spot"
   },
   {
     "Start": "3:30PM",
@@ -137,7 +149,7 @@ schedule = {"Friday":
   {
     "Start": "5:00PM",
     "End": "6:00PM",
-    "Description": "The Importance of Soft Skills & Interdisciplinary Tech",
+    "Description": "Fail Fast, Fail Often\" in Tech is Wrong"
     "Location": "Main Stage"
   },
   {
@@ -151,6 +163,12 @@ schedule = {"Friday":
     "End": "9:00PM",
     "Description": "Deep Learning",
     "Location": "Main Stage"
+  },
+  {
+    "Start": "8:00PM",
+    "End": "9:00PM",
+    "Description": "AppStudio for ArcGIS",
+    "Location": "Sun spot"
   },
   {
     "Start": "9:30PM",
