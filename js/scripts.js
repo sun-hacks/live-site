@@ -149,7 +149,7 @@ schedule = {"Friday":
   {
     "Start": "5:00PM",
     "End": "6:00PM",
-    "Description": "Fail Fast, Fail Often\" in Tech is Wrong"
+    "Description": "Fail Fast, Fail Often\" in Tech is Wrong",
     "Location": "Main Stage"
   },
   {
