@@ -13,13 +13,13 @@ schedule = {"Friday":
 	    "Location": "Lobby"
 	  },
 	  {
-	    "Start": "7:15PM",
-	    "End": "8:00PM",
+	    "Start": "7:30PM",
+	    "End": "8:15PM",
 	    "Description": "Opening Ceremonies",
 	    "Location": "Main Stage"
 	  },
 	  {
-	    "Start": "8:00PM",
+	    "Start": "8:15PM",
 	    "End": "",
 	    "Description": "Dinner",
 	    "Location": "Hacker Room"
@@ -97,12 +97,6 @@ schedule = {"Friday":
     "End": "",
     "Description": "Breakfast",
     "Location": "Main Stage"
-  },
-  {
-    "Start": "8:00AM",
-    "End": "9:00AM",
-    "Description": "Machine Learning with American Express",
-    "Location": ""
   },
   {
     "Start": "9:30AM",
